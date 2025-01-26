@@ -1,2 +1,2 @@
 # tensorwrite
-learning models for AI handwriting
+learning models for AI handwriting alalysis
